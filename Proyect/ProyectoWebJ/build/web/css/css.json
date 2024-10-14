@@ -1,0 +1,6 @@
+{
+    "Crea un media query": {
+        "prefix": "aq",
+        "body": "@media(min-width: $1) {\n  $2\n}"
+    }
+}
